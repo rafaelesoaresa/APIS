@@ -1,0 +1,19 @@
+/* Estilos para os temas */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.light {
+    background-color: #fff;
+    color: #333333bd;
+  }
+  
+  .dark {
+    background-color: #333333bd;
+    color: #fff;
+  }
+  

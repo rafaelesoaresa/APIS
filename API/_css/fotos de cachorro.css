@@ -1,0 +1,23 @@
+.light {
+    background-color: #fff;
+    color: #333333bd;
+  }
+  
+  .dark {
+    background-color: #333333bd;
+    color: #fff;
+  }
+  
+
+#imagens {
+text-align: center;
+margin-top: 20px;
+}
+
+.cachorro-imagem {
+max-width: 100%;
+height: auto;
+border: 1px solid #ccc;
+border-radius: 5px;
+padding: 10px;
+}

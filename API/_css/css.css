@@ -1,0 +1,51 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+ 
+    text-align: center;
+    padding: 20px;
+}
+.light {
+    background-color: #fff;
+    color: #333333bd;
+  }
+  
+  .dark {
+    background-color: #181818bd;
+    color: #fff;
+  }
+
+h2 {
+    color: #007bff;
+}
+header{
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 0;
+    border-radius: 30px;
+}
+
+/* Botão de geolocalização */
+button#btnGeoLocalizao {
+    margin-top: 20px;
+}
+
+/* Resultado de geolocalização */
+#resultado {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+/* Barra de navegação */
+.navbar {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Rodapé */
+footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+    border-radius: 30px;
+}
